@@ -6,7 +6,22 @@ I'm a passionate Data Analyst / Data Scientist with a keen interest in applying 
 I hold dual master's degrees in Data Science & Business Analytics from HEC Montreal and Statistics & Engineering from Sharif University of Technology. My experience spans predictive modeling, machine learning, and data visualization, and I've successfully driven growth and informed decision-making in various projects.
 
 ---
+<h2>👨‍💻 Projects</h2>
 
+- <b>Time series Forecasting</b>
+  - [Electricity bid price Forecasting](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
+  - [Energy Consumption Forecasting](https://github.com/HamidAliakbarlou/Predicting_EnergyConsumption_MachineLearning)
+  - [Electricity Demand Forecasting for New York City](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
+- <b>NLP</b>
+  - [Text Classification using LLMs](https://github.com/HamidAliakbarlou/NLP-SemanticAnalysis-LLM-BERT)
+- <b>Machine Learning</b>
+  - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
+- <b>Optimization </b>
+  - [Feature Selection with Metaheuristics](https://github.com/HamidAliakbarlou/FeatureSelection-with-Metaheuristics)
+
+
+ ---
+   
 ### 🚀 What I Do
 Currently, I am preparing for the Microsoft PL-300 Exam (Power BI Data Analyst Certificate) to further enhance my skills in data visualization and reporting.
 
