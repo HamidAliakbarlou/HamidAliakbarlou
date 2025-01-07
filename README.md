@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate Data Analyst / Data Scientist with a keen interest in applying data-driven approaches to the field of marketing. I've always been intrigued by the synergy between data and marketing strategies, deriving impactful insights from data to drive growth for companies.
 
-I hold a graduate degree in Business Administration and Marketing, where I cultivated expertise in marketing and market research. My journey has taken me into the field of data, where I've equipped myself with new methodologies and acquired diverse skills.
+I hold dual master's degrees in Data Science & Business Analytics from HEC Montreal and Statistics & Engineering from Sharif University of Technology. My experience spans predictive modeling, machine learning, and data visualization, and I've successfully driven growth and informed decision-making in various projects.
 
 ---
 
