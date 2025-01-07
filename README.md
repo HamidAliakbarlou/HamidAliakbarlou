@@ -56,4 +56,4 @@ I've started to delve into Cloud tools like Azure, Advanced Data Visualization, 
 
 ---
 
-Let's engage in discussions about leveraging data applications in marketing and business fields. I'm enthusiastic about collaborating and networking!
+Let's engage in discussions about leveraging data applications in business fields. I'm enthusiastic about collaborating and networking!
