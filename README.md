@@ -46,7 +46,7 @@ Git | GitHub Actions | Jupyter Notebook | RStudio | Visual Studio
 ---
 
 ### 📚 What I'm Learning
-I'm currently delving into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more.
+I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more.
 
 ---
 
