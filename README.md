@@ -18,6 +18,8 @@ I hold dual master's degrees in Data Science & Business Analytics from HEC Montr
   - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
 - <b>Optimization </b>
   - [Feature Selection with Metaheuristics](https://github.com/HamidAliakbarlou/FeatureSelection-with-Metaheuristics)
+- <b>Dashboard (Power BI) </b>
+  - [Performance-Report](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
 
 
  ---
