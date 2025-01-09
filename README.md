@@ -8,6 +8,8 @@ I hold dual master's degrees in Data Science & Business Analytics from HEC Montr
 ---
 <h2>👨‍💻 Projects</h2>
 
+- <b>Dashboard  </b>
+  - [Power BI Dashboard: Sales and Performance Analysis](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
 - <b>Time series Forecasting</b>
   - [Electricity bid price Forecasting](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
   - [Energy Consumption Forecasting](https://github.com/HamidAliakbarlou/Predicting_EnergyConsumption_MachineLearning)
@@ -18,8 +20,7 @@ I hold dual master's degrees in Data Science & Business Analytics from HEC Montr
   - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
 - <b>Optimization </b>
   - [Feature Selection with Metaheuristics](https://github.com/HamidAliakbarlou/FeatureSelection-with-Metaheuristics)
-- <b>Dashboard (Power BI) </b>
-  - [Performance Report](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
+
 
 
  ---
