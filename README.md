@@ -35,14 +35,14 @@ Currently, I am preparing for the Microsoft PL-300 Exam (Power BI Data Analyst C
 Python | DAX | Power BI | Adv. Excel (Macro, Pivot tables, Reporting) | R | MATLAB
 
 #### 💾 Databases & BI Tools
-Core SQL | SSIS | SSRS | SSAS| Snowflake | ETL Process | Power Query | Postgres | MySQL | MongoDB
+Core SQL | SSIS | SSRS | SSAS | ETL Process | Power Query 
 
 #### 🧠 ML/DL Frameworks
 NumPy | Pandas | scikit-learn | Matplotlib | seaborn | Pytorch
 
 
 #### 🛠️ Other Tools & Technologies
-Git | GitHub Actions | Jupyter Notebook | RStudio | Visual Studio
+Git | GitHub | Jupyter Notebook | RStudio | Visual Studio
 
 
 ---
