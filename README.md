@@ -32,7 +32,13 @@ Currently, I am preparing for the Microsoft PL-300 Exam (Power BI Data Analyst C
 ### 🛠️ Skills & Tools
 
 #### 🌐 Languages & Tools
-Python | DAX | Power BI | Adv. Excel (Macro, Pivot tables, Reporting) | R | MATLAB
+Python | DAX | Adv. Excel (Macro, Pivot tables, Reporting) | R | MATLAB
+
+#### 📊 Data Visualization
+Power BI | Tableau | GGplot | Matplotlib
+
+#### 📈 Statistics
+A/B Testing | Regression | Hypothesis Testing | Bayesian Inference | Causal Inference
 
 #### 💾 Databases & BI Tools
 Core SQL | SSIS | SSRS | SSAS | ETL Process | Power Query 
@@ -40,9 +46,12 @@ Core SQL | SSIS | SSRS | SSAS | ETL Process | Power Query
 #### 🧠 ML/DL Frameworks
 NumPy | Pandas | scikit-learn | Matplotlib | seaborn | Pytorch
 
+#### 🤖 Machine Learning
+Regression | Classification | Clustering | Time Series Analysis | Feature Selection and Engineering | Dimensionality Reduction
 
 #### 🛠️ Other Tools & Technologies
-Git | GitHub | Jupyter Notebook | RStudio | Visual Studio
+GitHub | Jupyter Notebook | Google Colab | RStudio | Visual Studio
+
 
 
 ---
