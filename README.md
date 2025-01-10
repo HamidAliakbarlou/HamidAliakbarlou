@@ -1,4 +1,4 @@
-## Hi there, I'm Hamid Aliakbarlou! 👋
+## Hi there, I'm Hamid! 👋
 
 ### About Me
 I am a Data Analyst / Data Scientist with expertise in predictive modeling, machine learning, and data visualization. Holding dual master’s degrees in Data Science & Business Analytics and Statistics & Engineering, I excel in solving complex problems and delivering actionable insights across industries to drive growth and optimize decision-making.
