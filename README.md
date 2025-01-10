@@ -9,12 +9,14 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
 
 - <b>Dashboard  </b>
   - [Power BI Dashboard: Sales and Performance Analysis](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
+- <b>SQL  </b>
+  - [COVID-19 Data Exploration](https://github.com/HamidAliakbarlou/SQL_CovidData_Exploration)
+- <b>NLP</b>
+  - [Text Classification using LLMs](https://github.com/HamidAliakbarlou/NLP-SemanticAnalysis-LLM-BERT)
 - <b>Time series Forecasting</b>
   - [Electricity bid price Forecasting](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
   - [Energy Consumption Forecasting](https://github.com/HamidAliakbarlou/Predicting_EnergyConsumption_MachineLearning)
   - [Electricity Demand Forecasting for New York City](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
-- <b>NLP</b>
-  - [Text Classification using LLMs](https://github.com/HamidAliakbarlou/NLP-SemanticAnalysis-LLM-BERT)
 - <b>Machine Learning</b>
   - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
 - <b>Optimization </b>
