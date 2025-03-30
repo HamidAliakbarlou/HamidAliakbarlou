@@ -20,6 +20,7 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
   - [Electricity Demand Forecasting for New York City](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
 - <b>Machine Learning</b>
   - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
+  - [House Prices – All-in-One Model Training and Comparison](https://github.com/HamidAliakbarlou/HousePricing)
 - <b>Optimization </b>
   - [Feature Selection with Metaheuristics](https://github.com/HamidAliakbarlou/FeatureSelection-with-Metaheuristics)
 
