@@ -9,7 +9,7 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
 
 - <b>Dashboard  </b>
   - [Power BI Dashboard: Sales and Performance Analysis](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
-  - [COVID-19 Dashboard](https://github.com/HamidAliakbarlou/Dashboard_CovidData/tree/main)
+  - [Tableau Dashboard: COVID-19](https://github.com/HamidAliakbarlou/Dashboard_CovidData/tree/main)
 - <b>SQL  </b>
   - [COVID-19 Data Exploration](https://github.com/HamidAliakbarlou/SQL_CovidData_Exploration)
 - <b>NLP</b>
