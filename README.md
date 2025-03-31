@@ -21,6 +21,8 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
 - <b>Machine Learning</b>
   - [Application of federated learning to a credit risk model](https://github.com/HamidAliakbarlou/Federated-Learning)
   - [House Prices – All-in-One Model Training and Comparison](https://github.com/HamidAliakbarlou/HousePricing)
+  - [Credit Card Fraud Detection](https://github.com/HamidAliakbarlou/credit-card-fraud-detection-lr-rf-xgb)
+
 - <b>Optimization </b>
   - [Feature Selection with Metaheuristics](https://github.com/HamidAliakbarlou/FeatureSelection-with-Metaheuristics)
 
