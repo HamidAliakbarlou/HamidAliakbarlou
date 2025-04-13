@@ -44,17 +44,17 @@ Python | DAX | Adv. Excel (Macro, Pivot tables, Reporting) | R | MATLAB
 #### 📊 Data Visualization
 Power BI | Tableau | GGplot | Matplotlib
 
-#### 📈 Statistics
-A/B Testing | Regression | Hypothesis Testing | Bayesian Inference | Causal Inference
-
-#### 💾 Databases & BI Tools
-Core SQL | SSIS | SSRS | SSAS | ETL Process | Power Query 
+#### 💾 Databases, BI & Data Engineering
+Core SQL | SSIS | SSRS | SSAS | ETL Development | Data Pipeline Design | Power Query | Data Modeling 
 
 #### 🧠 ML/DL Frameworks
 NumPy | Pandas | scikit-learn | Matplotlib | seaborn | Pytorch
 
 #### 🤖 Machine Learning
 Regression | Classification | Clustering | Time Series Analysis | Feature Selection and Engineering | Dimensionality Reduction
+
+#### 📈 Statistics
+A/B Testing | Regression | Hypothesis Testing | Bayesian Inference | Causal Inference
 
 #### 🛠️ Other Tools & Technologies
 GitHub | Jupyter Notebook | Google Colab | RStudio | Visual Studio
