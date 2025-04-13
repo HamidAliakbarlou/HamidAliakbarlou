@@ -64,7 +64,7 @@ GitHub | Jupyter Notebook | Google Colab | RStudio | Visual Studio
 ---
 
 ### 📚 What I'm Learning
-I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more.
+I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more. In parallel, I am expanding my technical skills in big data processing by learning Azure Data Services and PySpark, with a focus on scalable data pipeline development and distributed computing.
 
 ---
 
