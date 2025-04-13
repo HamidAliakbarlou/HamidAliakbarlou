@@ -32,7 +32,8 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
  ---
    
 ### 🚀 What I Do
-Currently, I am preparing for the Microsoft PL-300 Exam (Power BI Data Analyst Certificate) to further enhance my skills in data visualization and reporting.
+Currently, I am preparing for the Microsoft PL-300 Exam (Power BI Data Analyst Certificate) to further enhance my skills in data visualization and reporting. In parallel, I am expanding my technical skills in big data processing by learning Azure Data Services and PySpark, with a focus on scalable data pipeline development and distributed computing.
+
 
 ---
 
@@ -64,8 +65,7 @@ GitHub | Jupyter Notebook | Google Colab | RStudio | Visual Studio
 ---
 
 ### 📚 What I'm Learning
-I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more. In parallel, I am expanding my technical skills in big data processing by learning Azure Data Services and PySpark, with a focus on scalable data pipeline development and distributed computing.
-
+I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more. 
 ---
 
 ### 📫 Get in Touch
