@@ -65,8 +65,7 @@ GitHub | Jupyter Notebook | Google Colab | RStudio | Visual Studio
 ---
 
 ### 📚 What I'm Learning
-I've started to delve into Cloud tools like Azure, Advanced Data Visualization, unsupervised machine learning, and more. 
----
+I've started to delve into Cloud tools like Azure,Big Data,Unsupervised Machine Learning, and more. 
 
 ### 📫 Get in Touch
 - 📧 Email: [hamidaliakbarloo@gmail.com](mailto:hamidaliakbarloo@gmail.com)  
