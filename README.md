@@ -16,7 +16,7 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
 - <b>NLP</b>
   - [Text Classification using LLMs](https://github.com/HamidAliakbarlou/NLP-SemanticAnalysis-LLM-BERT)
 - <b>Time series Forecasting</b>
-  - [Electricity bid price Forecasting](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
+  - [Electricity bid price Forecasting](https://github.com/HamidAliakbarlou/Forecast-Electricity-Bid-Strategy/tree/main)
   - [Energy Consumption Forecasting](https://github.com/HamidAliakbarlou/Predicting_EnergyConsumption_MachineLearning)
   - [Electricity Demand Forecasting for New York City](https://github.com/HamidAliakbarlou/TimeSeries_ElectricityDemand_Forecasting)
 - <b>Machine Learning</b>
