@@ -8,7 +8,7 @@ I am a Data Analyst / Data Scientist with expertise in predictive modeling, mach
 <h2>👨‍💻 Projects</h2>
 
 - <b>Dashboard  </b>
-  - [Power BI Dashboard: Workplace Injuries Analytics](https://github.com/HamidAliakbarlou/Dashboard_WorkplaceInjuries)
+  - [Power BI Dashboard:Critical Injury Analytics (Ontario Public Service)](https://github.com/HamidAliakbarlou/Dashboard_WorkplaceInjuries)
   - [Power BI Dashboard: Sales and Performance Analysis](https://github.com/HamidAliakbarlou/Dashboard_Performance-Report)
   - [Tableau Dashboard: COVID-19](https://github.com/HamidAliakbarlou/Dashboard_CovidData/tree/main)
 - <b>Data Pipeline & SQL  </b>
